@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "layer-cake": "0.0.3",
-    "ejs": "~0.8.4"
+    "ejs": "~0.8.4",
+    "express": "~3.4.0"
   }
 }
